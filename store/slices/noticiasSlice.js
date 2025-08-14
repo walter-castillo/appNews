@@ -4,7 +4,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   noticias: DATANOTICIAS,
-  categories: DATACATEGORIAS
+  categorias: DATACATEGORIAS
 };
 console.log(initialState);
 
