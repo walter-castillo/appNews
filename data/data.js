@@ -1,4 +1,4 @@
- export const noticias = [
+ export const DATANOTICIAS = [
       {
         categoria: "Política",
         urlImagen: "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
@@ -142,7 +142,7 @@
     ];
     
 
-    export const categories = [
+    export const DATACATEGORIAS = [
       "Política",
       "Deportes",
       "Tecnología",
